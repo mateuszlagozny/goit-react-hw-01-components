@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//mateuszlagozny.github.io/goit-react-hw-01-components/static/css/main.e22adbc7.css",
+    "main.js": "//mateuszlagozny.github.io/goit-react-hw-01-components/static/js/main.5b693571.js",
+    "index.html": "//mateuszlagozny.github.io/goit-react-hw-01-components/index.html",
+    "main.e22adbc7.css.map": "//mateuszlagozny.github.io/goit-react-hw-01-components/static/css/main.e22adbc7.css.map",
+    "main.5b693571.js.map": "//mateuszlagozny.github.io/goit-react-hw-01-components/static/js/main.5b693571.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e22adbc7.css",
+    "static/js/main.5b693571.js"
+  ]
+}
